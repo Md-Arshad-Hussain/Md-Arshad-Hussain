@@ -11,8 +11,8 @@
 I'm **Md Arshad Hussain**
 
 - 📊 Love to play with data and discover insights
-- 🌱 Currently learning **Python**
-- 🛠️ Tools: `Excel`, `MySQL`, `Power BI`, `Python`
+- 📚 Currently learning **Python**
+
 
 ---
 
